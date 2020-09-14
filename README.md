@@ -6,8 +6,7 @@ Dataset: For this custom object detection, I am using First Person Shooter games
 LabelImg tool for making the xml files form images is [here](https://tzutalin.github.io/labelImg/)
 Using the above tool we get the xml file for each image which contains the bounding boxe for the object to be detected.
 
-After making the xml files of all images .csv file is created .
-
+After making the xml files of all images .csv file is created [here](https://github.com/Spectre-ak/Custom_object_detection/blob/master/Custom_Object_Detection.py).
 
 #### I've used tensorflow-gpu 1.15 for custom object detection on colab.
 Object detection model zoo for Tensorflow 1 is [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md) and Tensorflow 2 is [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md).
