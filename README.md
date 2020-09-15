@@ -31,10 +31,9 @@ And exported inference graph for the model is [here](https://drive.google.com/fi
 
 Videos..
 
-
-
-
-
-
-
-
+[![ObjectDetection](http://img.youtube.com/vi/Z3DVCPM2pV0/0.jpg)](http://www.youtube.com/watch?v=Z3DVCPM2pV0 "ObjectDetection1") 
+[![ObjectDetection](http://img.youtube.com/vi/e75eqjYVc9A/0.jpg)](http://www.youtube.com/watch?v=e75eqjYVc9A "ObjectDetection2")
+[![ObjectDetection](http://img.youtube.com/vi/s91_Ab0Ndg4/0.jpg)](http://www.youtube.com/watch?v=s91_Ab0Ndg4 "ObjectDetection3")
+[![ObjectDetection](http://img.youtube.com/vi/pyfXH2r8JRk/0.jpg)](http://www.youtube.com/watch?v=pyfXH2r8JRk "ObjectDetection4")
+[![ObjectDetection](http://img.youtube.com/vi/5-8cWC7U8_s/0.jpg)](http://www.youtube.com/watch?v=5-8cWC7U8_s "ObjectDetection5")
+[![ObjectDetection](http://img.youtube.com/vi/i7GWT_BRaXI/0.jpg)](http://www.youtube.com/watch?v=i7GWT_BRaXI "ObjectDetection6")
